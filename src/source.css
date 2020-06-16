@@ -565,9 +565,9 @@
     background-color: var(--background-modifier-selected);
 }
 
-.theme-dark .searchAnswer-3Dz2-q,
-.theme-dark .searchFilter-2ESiM3 {
-    background-color: var(--background-modifier-active);
+
+.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
+    background-color: var(--background-primary);
 }
 
 .theme-light .action-1lSjCi {
