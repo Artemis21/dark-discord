@@ -1182,3 +1182,8 @@ rect[mask="url(#svg-mask-status-offline)"] {
 .overflow-3zpvTV {
     background-color: var(--background-accent);
 }
+
+.theme-dark .actionButton-VzECiy {
+    border-color: var(--background-accent);
+    color: var(--background-accent);
+}
