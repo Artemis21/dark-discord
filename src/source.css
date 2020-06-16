@@ -933,8 +933,8 @@ foreignObject[mask="url(#svg-mask-status-offline)"] .status-1AY8sU {
     background-color: rgb(60, 60, 60) !important;
 }
 
-.status-1XNdyw[aria-label="Offline"] rect,
-rect[mask="url(#svg-mask-status-typing)"][fill="#747f8d"], 
+.status-1XNdyw[aria-label="Offline"] rect[height="15"][width="10"],
+rect[mask="url(#svg-mask-status-typing)"][fill="#747f8d"],
 rect[mask="url(#svg-mask-status-offline)"] {
     fill: rgb(60, 60, 60) !important;
 }
