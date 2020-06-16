@@ -1178,3 +1178,7 @@ rect[mask="url(#svg-mask-status-offline)"] {
 .theme-dark .watchButton-2SbJEo {
     border-color: var(--background-accent);
 }
+
+.overflow-3zpvTV {
+    background-color: var(--background-accent);
+}
