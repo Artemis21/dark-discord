@@ -1201,3 +1201,7 @@ rect[mask="url(#svg-mask-status-offline)"] {
 .theme-dark .divider-21LyPb {
     border-color: var(--background-modifier-accent);
 }
+
+.theme-dark .purchaseUnitOperatingSystem-cnbJPz {
+    color: var(--text-normal);
+}
