@@ -1184,3 +1184,20 @@ rect[mask="url(#svg-mask-status-offline)"] {
 .overflow-3zpvTV {
     background-color: var(--background-accent);
 }
+
+.scroller-1JpcIc {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .bodySection-jqkkIP, .theme-light .bodySection-jqkkIP {
+    background-color: var(--background-modifier-active);
+    border-top-color: var(--background-modifier-accent);
+}
+
+.theme-dark .row-1bU71H {
+    background-color: var(--background-modifier-active);
+}
+
+.theme-dark .divider-21LyPb {
+    border-color: var(--background-modifier-accent);
+}
