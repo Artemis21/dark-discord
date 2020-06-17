@@ -364,7 +364,8 @@
     background-color: var(--background-secondary-alt);
 }
 
-.emojiItem-14v6tW .emojiItemImageLoading-1yEIxx {
+.emojiItem-14v6tW .emojiItemImageLoading-1yEIxx, /* Stable */
+.theme-dark .imageLoading-bpSr0M /* Canary */{
     background-image: none;
     background-color: var(--background-accent);
     border-radius: 30%;
