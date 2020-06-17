@@ -128,8 +128,8 @@
     background-color: var(--background-tertiary);
 }
 
-.theme-dark .bodyInner-245q0L, // For Stable, remove later
-.theme-dark .body-3iLsc4, // For Canary
+.theme-dark .bodyInner-245q0L, /* For Stable, remove later */
+.theme-dark .body-3iLsc4, /* For Canary */
 .theme-dark .footer-1fjuF6 {
     background-color: var(--background-secondary);
 }
